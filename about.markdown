@@ -5,7 +5,7 @@ permalink: /AI-Progress-Updates/about/
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <img src="/assets/images/ai-banner.png" alt="AI Progress Updates" style="max-width: 100%; height: auto;">
+  <img src="{{ site.baseurl }}/assets/images/ai-banner.png" alt="AI Progress Updates">
 </div>
 
 # Welcome to AI Progress Updates!
