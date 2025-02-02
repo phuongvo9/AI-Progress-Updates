@@ -27,6 +27,13 @@ url: "https://phuongvo9.github.io" # the base hostname & protocol for your site,
 twitter_username: phuongvo9
 github_username:  phuongvo9
 
+markdown: kramdown # or commonmark
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  # ensure Mermaid code blocks are processed:
+  enable_coderay: false # or true if you are using coderay
+
 theme: minima
 plugins:
   - jekyll-feed
