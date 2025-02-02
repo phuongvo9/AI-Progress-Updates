@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /AI-Progress-Updates/about/
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
