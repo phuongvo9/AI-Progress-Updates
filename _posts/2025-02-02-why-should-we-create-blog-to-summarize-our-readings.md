@@ -10,7 +10,7 @@ Creating a blog to summarize our readings offers several key benefits for others
 
 ![Reasons-mindmap](Reasons-mindmap.png)
 
-
+https://phuongvo9.github.io/AI-Progress-Updates/self-development/2025/02/02/Reasons-mindmap.png
 
 ```mermaid
 mindmap
